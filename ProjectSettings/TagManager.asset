@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - Enemy
+  - Item
+  - yuka
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - yuka
+  - player
+  - enemy
+  - item
+  - stairs
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 1422776675
+    locked: 0
+  - name: player
+    uniqueID: 1745381203
+    locked: 0
+  - name: Panel
+    uniqueID: 3128508821
+    locked: 0
+  - name: ' Back'
+    uniqueID: 376195573
+    locked: 0
